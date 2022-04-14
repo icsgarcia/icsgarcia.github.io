@@ -1,0 +1,14 @@
+body {
+	background: black;
+	text-align: center;
+}
+
+p {
+	color: gold;
+	font-size: 5em;
+}
+
+img {
+	width: 50%;
+	border: 3px solid gold;
+}
