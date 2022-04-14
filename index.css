@@ -10,6 +10,6 @@ p {
 }
 
 img {
-	width: 50%;
+	max-width: 50%;
 	border: 3px solid gold;
 }
